@@ -1,7 +1,7 @@
 # Machine Learning 
 
-## TransformCsv
-__init__: import the csv data 
+## TransformCsv  
+__init__: import the csv data  
 replaceStringWithInt: converts string class to int  
 intergifyData: converts string np array to int.  
 shuffleData: randomly shuffles the dataa  
