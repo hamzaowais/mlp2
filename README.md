@@ -1,6 +1,8 @@
 # Machine Learning 
 
-## TransformCsv  
+## TransformCsv.py  
+Preprocessing data for training Machine learning model  
+
 __init__: import the csv data  
 replaceStringWithInt: converts string class to int  
 intergifyData: converts string np array to int.  
