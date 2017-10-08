@@ -1,7 +1,7 @@
 # Machine Learning 
 
 ## TransformCsv.py  
-Preprocessing data for training Machine learning model  
+Preprocessing data for training Machine learning model. See the code it is very simple and self explainatory 
 
 __init__: import the csv data  
 replaceStringWithInt: converts string class to int  
